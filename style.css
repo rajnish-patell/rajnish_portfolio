@@ -63,11 +63,7 @@ footer {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    -webkit-tap-highlight-color: transparent
+    -webkit-tap-highlight-color: transparent;
 }
 
 ::selection {
@@ -417,10 +413,6 @@ noscript {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none
 }
 
 .face,
